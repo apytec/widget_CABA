@@ -1,3 +1,7 @@
 {
-  "exampleConfigProperty": "test"
+  "runtime": false,
+  "properties": {
+    "mapWidgetId": "",
+    "name": "simple"
+  }
 }
